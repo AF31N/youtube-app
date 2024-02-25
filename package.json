@@ -1,6 +1,7 @@
 {
   "name": "youtube-clone",
   "homepage": "https://AF31N.github.io/youtube-app",
+  "homepage": "https://react-appyoutube.netlify.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
